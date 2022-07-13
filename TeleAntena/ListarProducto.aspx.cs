@@ -10,7 +10,7 @@ namespace TeleAntena
 {
     public partial class ListarProducto : System.Web.UI.Page
     {
-        private static TelentenaEntities entidad = new TelentenaEntities();
+        private static TeleantenaEntities entidad = new TeleantenaEntities();
         protected void Page_Load(object sender, EventArgs e)
         {
             cargarGrid();
