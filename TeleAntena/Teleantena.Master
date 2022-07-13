@@ -1,4 +1,5 @@
 ﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Teleantena.master.cs" Inherits="TeleAntena.Teleantena" %>
+<PackageReference Include="Microsoft.AspNet.EntityDataSource" Version="6.0.0" />
 
 <!DOCTYPE html>
 
