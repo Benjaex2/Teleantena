@@ -1,0 +1,104 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Teleantena.master.cs" Inherits="TeleAntena.Teleantena" %>
+
+<!DOCTYPE html>
+
+<html data-theme="corporate">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<link href="https://cdn.jsdelivr.net/npm/daisyui@2.18.1/dist/full.css" rel="stylesheet" type="text/css" />
+<script src="https://cdn.tailwindcss.com"></script>
+
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div class="flex flex-col w-full lg:flex-row items-center">
+        <div class="py"><img align="left" src="https://teleantena.cl/wp-content/uploads/2022/01/Telefono-300x300.png" alt="" width="15" height="15"></div>
+        &nbsp;
+        <div class="py"><a href="tel:+56977710291">+56977710291</a></div>
+        &nbsp;
+        <div class="py"><img align="left" src="https://teleantena.cl/wp-content/uploads/2022/01/EMail-300x300.png" alt="" width="15" height="15"></div>
+        &nbsp;
+        <div class="py"><a href="mailto:contacto@teleantena.cl">contacto@teleantena.cl</a></div>
+    </div>
+<div class="navbar bg-base-100 accent-1 static">
+  <div class="flex-1">
+  </div>
+  <div class="flex-none">
+    <ul class="menu menu-horizontal p-0">
+      <li><a href="/Home.aspx">Inicio</a></li>
+      <li><a href="/Nosotros.aspx">Nosotros</a></li>
+      <li tabindex="0">
+        <a>
+          Parent
+          <svg class="fill-current" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"><path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z"/></svg>
+        </a>
+        <ul class="p-2 bg-base-100">
+          <li><a>Submenu 1</a></li>
+          <li><a>Submenu 2</a></li>
+        </ul>
+      </li>
+        <li tabindex="0">
+        <a href="/Servicios.aspx">
+          Servicios
+          <svg class="fill-current" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"><path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z"/></svg>
+        </a>
+        <ul class="p-2 bg-base-100">
+          <li><a href="/ServiciosC.aspx">Ciberseguridad</a></li>
+          <li><a href="/ServiciosT.aspx">Telecomunicaciones</a></li>
+        </ul>
+      </li>
+      <li><a href="/Proyectos.aspx">Proyectos</a></li>
+      <li><a href="/Clientes.aspx">Clientes</a></li>
+      <li><a href="/Contacto.aspx">Contacto</a></li>
+    </ul>
+  </div>
+</div>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    <footer>
+        <div class="flex items-center justify-center">
+            <div class="py">
+                <img width="300" height="272" src="https://teleantena.cl/wp-content/uploads/2022/01/Logo_Teleantena-1-300x272.png" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://teleantena.cl/wp-content/uploads/2022/01/Logo_Teleantena-1-300x272.png 300w, https://teleantena.cl/wp-content/uploads/2022/01/Logo_Teleantena-1-1024x928.png 1024w, https://teleantena.cl/wp-content/uploads/2022/01/Logo_Teleantena-1-768x696.png 768w, https://teleantena.cl/wp-content/uploads/2022/01/Logo_Teleantena-1-1536x1392.png 1536w, https://teleantena.cl/wp-content/uploads/2022/01/Logo_Teleantena-1.png 1872w" sizes="(max-width: 300px) 100vw, 300px">
+            </div>
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            <div class="py">
+                <a href="#"><p class="font-bold">PRODUCTOS</p></a>
+                <br />
+                <a href="#"><p>Ciberseguridad</p></a>
+                <a href="#"><p>Telecomunicaciones</p></a>
+                <br />
+                <a href="#"><p class="font-bold">SECCIONES</p></a>
+                <br />
+                <a href="#"><p>Nosotros</p></a>
+                <a href="#"><p>Proyectos</p></a>
+                <a href="#"><p>Clientes</p></a>
+            </div>
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            <div class="py">
+                <a href="#"><p class="font-bold">CONTACTO</p></a>
+                <br />
+                <p class="font-bold">Dirección:</p>
+                <p>Huérfanos 1055 – Of. 503 – Santiago – Chile</p>
+                <br />
+                <p class="font-bold">Teléfono:</p>
+                <a href="tel:+56977710291"><p>+56 9 7771 0291</p></a>
+                <br />
+                <p class="font-bold">Correo:</p>
+                <a href="mailto:contacto@teleantena.cl"><p>contacto@teleantena.cl</p></a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

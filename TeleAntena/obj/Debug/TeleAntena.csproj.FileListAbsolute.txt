@@ -1,0 +1,887 @@
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\TeleAntena.dll.config
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\TeleAntena.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\TeleAntena.pdb
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\csc.exe
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\csc.exe.config
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\csc.rsp
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\csi.exe
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\csi.exe.config
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\csi.rsp
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\System.AppContext.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\System.Console.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\System.IO.Compression.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\System.Net.Http.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\System.Net.Sockets.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\System.ValueTuple.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\System.Xml.XPath.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\vbc.exe
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\vbc.exe.config
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\vbc.rsp
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\VBCSCompiler.exe
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\obj\Debug\TeleAntena.csproj.AssemblyReference.cache
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\obj\Debug\TeleAntena.csproj.CoreCompileInputs.cache
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\obj\Debug\TeleAntena.csproj.CopyComplete
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\obj\Debug\TeleAntena.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\obj\Debug\TeleAntena.pdb
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\TeleAntena.dll.config
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\TeleAntena.dll
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\TeleAntena.pdb
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\csc.exe
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\csc.exe.config
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\csc.rsp
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\csi.exe
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\csi.exe.config
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\csi.rsp
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\System.AppContext.dll
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\System.Console.dll
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\System.Net.Http.dll
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\vbc.exe
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\vbc.exe.config
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\vbc.rsp
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\obj\Debug\TeleAntena.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\obj\Debug\TeleAntena.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\obj\Debug\TeleAntena.csproj.CopyComplete
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\obj\Debug\TeleAntena.dll
+C:\Users\Administrador\Desktop\INACAP\Semestre 5\Progra\TeleAntena\TeleAntena\obj\Debug\TeleAntena.pdb
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\TeleAntena.dll.config
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\TeleAntena.dll
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\TeleAntena.pdb
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\csc.exe
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\csc.exe.config
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\csc.rsp
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\csi.exe
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\csi.exe.config
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\csi.rsp
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\System.AppContext.dll
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\System.Console.dll
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\System.IO.Compression.dll
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\System.Net.Http.dll
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\System.ValueTuple.dll
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\vbc.exe
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\vbc.exe.config
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\vbc.rsp
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\VBCSCompiler.exe
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\obj\Debug\TeleAntena.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\obj\Debug\TeleAntena.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\obj\Debug\TeleAntena.csproj.CopyComplete
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\obj\Debug\TeleAntena.dll
+C:\Users\Diego\Desktop\Progrmacion avanzaada\TeleAntena(benamin)\TeleAntena\TeleAntena\obj\Debug\TeleAntena.pdb
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\TeleAntena.dll.config
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\TeleAntena.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\TeleAntena.pdb
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\csc.exe
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\csc.exe.config
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\csc.rsp
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\csi.exe
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\csi.exe.config
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\csi.rsp
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.AppContext.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Console.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.IO.Compression.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Net.Http.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.ValueTuple.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\vbc.exe
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\vbc.exe.config
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\vbc.rsp
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\VBCSCompiler.exe
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\obj\Debug\TeleAntena.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\obj\Debug\TeleAntena.csproj.CopyComplete
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\obj\Debug\TeleAntena.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\obj\Debug\TeleAntena.pdb
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\Newtonsoft.Json.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\System.Net.Http.Formatting.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\System.Web.Http.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\System.Web.Http.WebHost.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\Newtonsoft.Json.xml
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\System.Net.Http.Formatting.xml
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\System.Web.Http.xml
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\System.Web.Http.WebHost.xml
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\es\System.Web.Http.resources.dll
+C:\Users\Diego\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\obj\Debug\TeleAntena.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\obj\Debug\TeleAntena.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\obj\Debug\TeleAntena.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\obj\Debug\TeleAntena.pdb
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\TeleAntena.dll.config
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\TeleAntena.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\TeleAntena.pdb
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\csc.exe
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\csc.exe.config
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\csc.rsp
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\csi.exe
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\csi.exe.config
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\csi.rsp
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.AppContext.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Console.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Net.Http.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\vbc.exe
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\vbc.exe.config
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\vbc.rsp
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\Newtonsoft.Json.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\System.Web.Http.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\Newtonsoft.Json.xml
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\System.Web.Http.xml
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\es\System.Web.Http.resources.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Administrador\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\obj\Debug\TeleAntena.csproj.CopyComplete
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\TeleAntena.dll.config
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\TeleAntena.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\TeleAntena.pdb
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\csc.exe
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\Newtonsoft.Json.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\System.Net.Http.Formatting.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\System.Web.Http.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\System.Web.Http.WebHost.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\Newtonsoft.Json.xml
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\System.Net.Http.Formatting.xml
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\System.Web.Http.xml
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\System.Web.Http.WebHost.xml
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\es\System.Web.Http.resources.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\obj\Debug\TeleAntena.csproj.AssemblyReference.cache
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\obj\Debug\TeleAntena.csproj.CoreCompileInputs.cache
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\obj\Debug\TeleAntena.csproj.CopyComplete
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\obj\Debug\TeleAntena.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\obj\Debug\TeleAntena.pdb
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\TeleAntena.dll.config
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\TeleAntena.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\TeleAntena.pdb
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\csc.exe
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\csc.exe.config
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\csc.rsp
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\csi.exe
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\csi.exe.config
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\csi.rsp
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.AppContext.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Console.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.IO.Compression.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Net.Http.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Net.Sockets.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.ValueTuple.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Xml.XPath.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\vbc.exe
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\vbc.exe.config
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\vbc.rsp
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\VBCSCompiler.exe
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\Newtonsoft.Json.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\System.Net.Http.Formatting.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\System.Web.Http.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\System.Web.Http.WebHost.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\Newtonsoft.Json.xml
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\System.Net.Http.Formatting.xml
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\System.Web.Http.xml
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\System.Web.Http.WebHost.xml
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\es\System.Web.Http.resources.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\obj\Debug\TeleAntena.csproj.AssemblyReference.cache
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\obj\Debug\TeleAntena.csproj.CoreCompileInputs.cache
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\obj\Debug\TeleAntena.csproj.CopyComplete
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\obj\Debug\TeleAntena.dll
+C:\Users\alumnos09\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\obj\Debug\TeleAntena.pdb
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\Newtonsoft.Json.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\System.Net.Http.Formatting.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\System.Web.Http.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\System.Web.Http.WebHost.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\Newtonsoft.Json.xml
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\System.Net.Http.Formatting.xml
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\System.Web.Http.xml
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\System.Web.Http.WebHost.xml
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\es\System.Web.Http.resources.dll
+C:\Users\alumnos09\Desktop\TeleAntena\TeleAntena\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\TeleAntena.dll.config
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\TeleAntena.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\TeleAntena.pdb
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\csc.exe
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\csc.exe.config
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\csc.rsp
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\csi.exe
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\csi.exe.config
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\csi.rsp
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\System.AppContext.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\System.Console.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\System.IO.Compression.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\System.Net.Http.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\System.ValueTuple.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\vbc.exe
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\vbc.exe.config
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\vbc.rsp
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\VBCSCompiler.exe
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\Newtonsoft.Json.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\System.Net.Http.Formatting.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\System.Web.Http.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\System.Web.Http.WebHost.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\Newtonsoft.Json.xml
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\System.Net.Http.Formatting.xml
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\System.Web.Http.xml
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\System.Web.Http.WebHost.xml
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\es\System.Web.Http.resources.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\obj\Debug\TeleAntena.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\obj\Debug\TeleAntena.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\obj\Debug\TeleAntena.csproj.CopyComplete
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\obj\Debug\TeleAntena.dll
+C:\Users\Diego\Desktop\ProgramaciónAvanzada\TeleAntenaActualizado\TeleAntena\TeleAntena\obj\Debug\TeleAntena.pdb
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\TeleAntena.dll.config
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\TeleAntena.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\TeleAntena.pdb
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\csc.exe
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\csc.exe.config
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\csc.rsp
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\csi.exe
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\csi.exe.config
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\csi.rsp
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\System.AppContext.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\System.Console.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\System.IO.Compression.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\System.Net.Http.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\System.ValueTuple.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\vbc.exe
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\vbc.exe.config
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\vbc.rsp
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\VBCSCompiler.exe
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\Newtonsoft.Json.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\System.Net.Http.Formatting.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\System.Web.Http.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\System.Web.Http.WebHost.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\Newtonsoft.Json.xml
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\System.Net.Http.Formatting.xml
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\System.Web.Http.xml
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\System.Web.Http.WebHost.xml
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\es\System.Web.Http.resources.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\obj\Debug\TeleAntena.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\obj\Debug\TeleAntena.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\obj\Debug\TeleAntena.csproj.CopyComplete
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\obj\Debug\TeleAntena.dll
+C:\Users\Diego\Desktop\TeleAntena-main\TeleAntena-main\TeleAntena\obj\Debug\TeleAntena.pdb
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\TeleAntena.dll.config
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\TeleAntena.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\TeleAntena.pdb
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\csc.exe
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\csc.exe.config
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\csc.rsp
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\csi.exe
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\csi.exe.config
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\csi.rsp
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\System.AppContext.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\System.Console.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\System.Net.Http.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\vbc.exe
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\vbc.exe.config
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\vbc.rsp
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\Newtonsoft.Json.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\System.Web.Http.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\Newtonsoft.Json.xml
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\System.Web.Http.xml
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\es\System.Web.Http.resources.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\obj\Debug\TeleAntena.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\obj\Debug\TeleAntena.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\obj\Debug\TeleAntena.csproj.CopyComplete
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\obj\Debug\TeleAntena.dll
+C:\Users\Administrador\Desktop\Proyectos\TeleAntena\TeleAntena\obj\Debug\TeleAntena.pdb
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\TeleAntena.dll.config
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\TeleAntena.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\TeleAntena.pdb
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\csc.exe
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\csc.exe.config
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\csc.rsp
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\csi.exe
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\csi.exe.config
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\csi.rsp
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\System.AppContext.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\System.Console.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\System.Net.Http.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\vbc.exe
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\vbc.exe.config
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\vbc.rsp
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\Newtonsoft.Json.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\System.Web.Http.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\Newtonsoft.Json.xml
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\System.Web.Http.xml
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\es\System.Web.Http.resources.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\obj\Debug\TeleAntena.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\obj\Debug\TeleAntena.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\obj\Debug\TeleAntena.csproj.CopyComplete
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\obj\Debug\TeleAntena.dll
+C:\Users\Administrador\Desktop\Proyectos\Ni idea que pasa\TeleAntena\TeleAntena\obj\Debug\TeleAntena.pdb
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\TeleAntena.dll.config
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\TeleAntena.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\TeleAntena.pdb
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\csc.exe
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\csc.exe.config
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\csc.rsp
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\csi.exe
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\csi.exe.config
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\csi.rsp
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\System.AppContext.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\System.Console.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\System.IO.Compression.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\System.Net.Http.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\System.ValueTuple.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\vbc.exe
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\vbc.exe.config
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\vbc.rsp
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\VBCSCompiler.exe
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\Newtonsoft.Json.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\System.Net.Http.Formatting.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\System.Web.Http.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\System.Web.Http.WebHost.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\Newtonsoft.Json.xml
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\System.Net.Http.Formatting.xml
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\System.Web.Http.xml
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\System.Web.Http.WebHost.xml
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\es\System.Web.Http.resources.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\obj\Debug\TeleAntena.csproj.AssemblyReference.cache
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\obj\Debug\TeleAntena.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\obj\Debug\TeleAntena.csproj.CopyComplete
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\obj\Debug\TeleAntena.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaGit2\TeleAntena\TeleAntena\obj\Debug\TeleAntena.pdb
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\csc.exe.config
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\csc.rsp
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\csi.exe
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\csi.exe.config
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\csi.rsp
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.AppContext.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Console.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.IO.Compression.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Net.Http.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.ValueTuple.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\vbc.exe
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\vbc.exe.config
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\vbc.rsp
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\VBCSCompiler.exe
+C:\Users\Panda\Desktop\TeleAntenaOficial\TeleAntena\TeleAntena\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\TeleAntena.dll.config
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\TeleAntena.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\TeleAntena.pdb
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\csc.exe
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\csc.exe.config
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\csc.rsp
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\csi.exe
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\csi.exe.config
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\csi.rsp
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\System.AppContext.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\System.Console.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\System.IO.Compression.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\System.Net.Http.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\System.ValueTuple.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\vbc.exe
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\vbc.exe.config
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\vbc.rsp
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\VBCSCompiler.exe
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\Newtonsoft.Json.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\System.Net.Http.Formatting.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\System.Web.Http.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\System.Web.Http.WebHost.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\Newtonsoft.Json.xml
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\System.Net.Http.Formatting.xml
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\System.Web.Http.xml
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\System.Web.Http.WebHost.xml
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\es\System.Web.Http.resources.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\obj\Debug\TeleAntena.csproj.AssemblyReference.cache
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\obj\Debug\TeleAntena.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\obj\Debug\TeleAntena.csproj.CopyComplete
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\obj\Debug\TeleAntena.dll
+C:\Users\Diego\source\repos\An0therPanda\TeleAntenaOf\TeleAntena\TeleAntena\obj\Debug\TeleAntena.pdb

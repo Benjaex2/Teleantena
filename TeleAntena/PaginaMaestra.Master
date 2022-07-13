@@ -1,0 +1,41 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="PaginaMaestra.master.cs" Inherits="TeleAntena.PaginaMaestra" %>
+<!--Ya estan todas las paginas vinculadas :D-->
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!-- CSS only -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title></title>
+    <!--Aqui llamamos a las paginas para vincular-->
+    <asp:ContentPlaceHolder ID="head" runat="server">
+        
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <nav>
+    <div class="nav-wrapper teal lighten-2">
+      <a href="/AgregarProducto.aspx" class="brand-logo">
+        <!--<asp:Image ID="ImgIcon" src="Img/Icon.png" class="rounded float-left" Width="50" Height="50" runat="server" /></a>-->
+        <asp:Image ID="ImgLogo" src="Img/logomini.png" runat="server" />
+      <ul id="nav-mobile" class="right hide-on-med-and-down">
+        <li><a href="AgregarProducto.aspx">Agregar Producto</a></li>
+        <li><a href="AgregarCapacitacion.aspx">Agregar Capacitación</a></li>
+        <li><a href="BuscarProducto.aspx">Buscar Producto</a></li>
+        <li><a href="ListarProducto.aspx">Listar Producto</a></li>
+      </ul>
+    </div>
+  </nav>
+        <!--Aqui va a ir lo que tenga las diferentes pagins dentro del CP_Main-->
+        <asp:ContentPlaceHolder ID="CP_Main" runat="server">
+        </asp:ContentPlaceHolder>
+    </form>
+    <script type="text/javascript" src="js/materialize.min.js"></script>
+    <!-- JavaScript Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+</body>
+</html>
