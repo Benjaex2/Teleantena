@@ -11,7 +11,7 @@ namespace TeleAntena
 {
 
 
-    public partial class Productos1
+    public partial class Productos
     {
 
         /// <summary>
@@ -24,13 +24,13 @@ namespace TeleAntena
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
         /// <summary>
-        /// Control ListView1.
+        /// Control ListView.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.ListView ListView1;
+        protected global::System.Web.UI.WebControls.ListView ListView;
 
         /// <summary>
         /// Control SqlDataSource1.

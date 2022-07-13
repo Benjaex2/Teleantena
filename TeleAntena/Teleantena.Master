@@ -32,12 +32,12 @@
       <li><a href="/Nosotros.aspx">Nosotros</a></li>
       <li tabindex="0">
         <a>
-          Parent
+          Productos
           <svg class="fill-current" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"><path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z"/></svg>
         </a>
-        <ul class="p-2 bg-base-100">
-          <li><a>Submenu 1</a></li>
-          <li><a>Submenu 2</a></li>
+        <ul class="p-2 bg-base-100 z-50">
+          <li><a>Ciberseguridad</a></li>
+          <li><a>Telecomunicaciones</a></li>
         </ul>
       </li>
         <li tabindex="0">
@@ -45,7 +45,7 @@
           Servicios
           <svg class="fill-current" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"><path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z"/></svg>
         </a>
-        <ul class="p-2 bg-base-100">
+        <ul class="p-2 bg-base-100 z-50">
           <li><a href="/ServiciosC.aspx">Ciberseguridad</a></li>
           <li><a href="/ServiciosT.aspx">Telecomunicaciones</a></li>
         </ul>

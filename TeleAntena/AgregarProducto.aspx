@@ -55,7 +55,6 @@
             <div class="input-field col s10">
                  <asp:Label id="label6" Text="Imagen del Producto:  " runat="server"/>
                 <asp:FileUpload ID="fuImagen" runat="server" Width="300px" />
-                <asp:RequiredFieldValidator ID="ValidadorImagen" ControlToValidate="fuImagen" runat="server" ForeColor="Red" ErrorMessage="Campo Requerido"></asp:RequiredFieldValidator>
             </div>
         </div>
         <div class="row">
