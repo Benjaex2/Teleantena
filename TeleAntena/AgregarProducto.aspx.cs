@@ -51,7 +51,7 @@ namespace TeleAntena
         protected void BtnAgregar_Click(object sender, EventArgs e)
         {
             Productos producto = ProductoController.FindProducto(int.Parse(TxtCodigo.Text));
-            if (producto != null)
+            if (producto == null)
             {
                 string imagenPath = Server.MapPath("~/Img/ImgProductos/");
                 string nombreImagen = "";

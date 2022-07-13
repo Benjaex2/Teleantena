@@ -40,8 +40,15 @@ namespace TeleAntena.Controladores
         //Buscar Administrador
         public static Usuarios FindAdministrador(string usuario)
         {
-            Usuarios user = entidad.Usuarios.Single(i => i.Usuario == usuario);
-            return user;
+            Usuarios user = entidad.Usuarios.SingleOrDefault(i => i.Usuario == usuario);
+            if (user == null)
+            {
+                return null;
+            }
+            else
+            {
+                return user;
+            }
         }
 
         //Editar Administrador

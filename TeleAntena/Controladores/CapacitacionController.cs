@@ -42,7 +42,7 @@ namespace TeleAntena.Controladores
         //Buscar Capacitacion
         public static Capacitacion FindCapacitacion(int id)
         {
-            Capacitacion c = entidad.Capacitacion.Single(i => i.ID_Capacitacion == id);
+            Capacitacion c = entidad.Capacitacion.SingleOrDefault(i => i.ID_Capacitacion == id);
             return c;
         }
 

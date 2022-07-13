@@ -49,8 +49,15 @@ namespace TeleAntena.Controladores
         //Buscar Producto
         public static Productos FindProducto(int id)
         {
-            Productos p = entidad.Productos.Single(i => i.ID_Producto == id);
-            return p;
+            Productos p = entidad.Productos.SingleOrDefault(i => i.ID_Producto == id);
+            if (p == null)
+            {
+                return null;
+            }
+            else
+            {
+                return p;
+            }
         }
 
         //Editar Producto

@@ -39,7 +39,7 @@ namespace TeleAntena.Controladores
         //Buscar TipoProducto
         public static TipoProductos FindTipoProducto(int id)
         {
-            TipoProductos tp = entidad.TipoProductos.Single(i => i.ID_TipoProducto == id);
+            TipoProductos tp = entidad.TipoProductos.SingleOrDefault(i => i.ID_TipoProducto == id);
             return tp;
         }
 
