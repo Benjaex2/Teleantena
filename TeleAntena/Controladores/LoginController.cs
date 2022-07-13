@@ -12,7 +12,7 @@ namespace TeleAntena.Controladores
             Usuarios user = AdministradorController.FindAdministrador(username);
             if (user != null)
             {
-                if (user.Contra.Equals(pass))
+                if (user.Contra.Equals(AdministradorController.GetMD5(pass)))
                 {
                     return user;
                 }

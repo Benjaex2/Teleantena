@@ -1,12 +1,25 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography;
+using System.Text;
 using System.Web;
 
 namespace TeleAntena.Controladores
 {
     public class AdministradorController
     {
+        public static string GetMD5(string contrasena)
+        {
+            MD5 md5 = MD5CryptoServiceProvider.Create();
+            ASCIIEncoding codificar = new ASCIIEncoding();
+            byte[] stream = null;
+            StringBuilder sb = new StringBuilder();
+            stream = md5.ComputeHash(codificar.GetBytes(contrasena));
+            for (int i = 0; i < stream.Length; i++) sb.AppendFormat("{0:x2}", stream[i]);
+            return sb.ToString();
+        }
+
         private static TeleantenaEntities entidad = new TeleantenaEntities();
 
         //Agregar Administrador
@@ -17,7 +30,7 @@ namespace TeleAntena.Controladores
                 Usuarios user = new Usuarios()
                 {
                     Usuario = usuario,
-                    Contra = contrasena
+                    Contra = GetMD5(contrasena)
                 };
                 entidad.Usuarios.Add(user);
                 entidad.SaveChanges();
